@@ -1,4 +1,4 @@
-# destiny.gg Mobile App
+# www.micotyn.com mobile app
 
 Builds using standard React Native tooling, known working at 0.56.
 
