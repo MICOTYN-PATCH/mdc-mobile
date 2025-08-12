@@ -1,5 +1,7 @@
 # www.micotyn.com mobile app
 
+forked from https://github.com/destinygg/react-mobile
+
 Builds using standard React Native tooling, known working at 0.56.
 
 `app/chat` contains re-implementations of web client JavaScript for mobile app.
